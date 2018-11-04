@@ -1,8 +1,8 @@
 # Dockerfile for Pull Request Club
 
-This instructions to build a container are used to deploy [PullRequest.Club](https://github.com/kyzn/PRC).
+To see built image, visit [Docker Hub](https://hub.docker.com/r/kyzn/prc/).
 
-Note that this is a WIP and is not complete yet.
+Following instructions can be used to deploy [PullRequest.Club](https://github.com/kyzn/PRC) in near future. Note that this is till a work in progress.
 
 ## Instructions
 
