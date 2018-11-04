@@ -8,6 +8,7 @@ RUN cpanm Carton Starman
 
 RUN git clone http://github.com/kyzn/PRC.git
 RUN cd PRC && carton install --deployment
+RUN cd PRC && sqlite3 prc.db < prc.sql
 
 WORKDIR PRC
 CMD service memcached start && perl -Ilocal/lib/perl5 -Ilib local/bin/starman --port 8080 prc.psgi
