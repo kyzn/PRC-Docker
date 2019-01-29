@@ -2,7 +2,7 @@
 
 To see built image, visit [Docker Hub](https://hub.docker.com/r/kyzn/prc/).
 
-Following instructions can be used to deploy [PullRequest.Club](https://github.com/kyzn/PRC) in near future. Note that this is till a work in progress.
+Following instructions can be used to deploy [PullRequest.Club](https://github.com/kyzn/PRC) in near future. Note that this is still a work in progress.
 
 ## Instructions
 
